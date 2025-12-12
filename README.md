@@ -9,3 +9,7 @@ Este proyecto permite cargar un archivo CSV con datos de navegación de clientes
 - Otros datos básicos del comportamiento del usuario  
 
 La app se ejecuta con **Gradio**, permitiendo interactuar con el modelo desde un navegador web.
+
+## ▶️ Instalación
+```bash
+pip install -r requirements.txt
