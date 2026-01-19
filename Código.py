@@ -1,12 +1,6 @@
 from google.colab import files
 uploaded = files.upload()
 
-2) Pegar en otra celda vacía.
-
-!ls /content
-
-3) Pegar en otra celda vacía.
-
 # ======================================
 # 1) Instalar dependencias
 # ======================================
