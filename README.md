@@ -1,15 +1,16 @@
-# 📊 Analítica de Comportamiento del Cliente (Gradio + Python)
+# 📊 Customer Behavior Analytics (Gradio + Python)
 
-Este proyecto permite cargar un archivo CSV con datos de navegación de clientes y hacer consultas en lenguaje natural sobre:
+This project allows users to upload a CSV file containing customer browsing data and perform natural-language queries about:
 
-- Tasa de conversión  
-- Página con mayor conversión  
-- Producto más visto  
-- Tiempo promedio de sesión  
-- Otros datos básicos del comportamiento del usuario  
+- Conversion rate
+- Highest-converting page
+- Most viewed product
+- Average session duration
+- Other basic user behavior metrics
 
-La app se ejecuta con **Gradio**, permitiendo interactuar con el modelo desde un navegador web.
+The application runs with Gradio, providing a simple web-based interface for interacting with the analysis.
 
-## ▶️ Instalación
+## ▶️ Installation
+
 ```bash
 pip install -r requirements.txt
